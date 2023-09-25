@@ -1,0 +1,11 @@
+Package: pytrim
+Title: Calculate Pythagorean Theorem and Trimmed Means
+Version: 0.0.0.9000
+Authors@R: 
+    person("Trang", "Ly", , "lytt6@vcu.edu", role = c("aut", "cre"))
+Description: The pytrim package provides two essential functions for working with numeric data. The pythag function calculates the length of the third side of a right triangle using the Pythagorean theorem. It includes error checking to ensure valid inputs, making it a valuable tool for geometry and trigonometry calculations. The trimmed_mean function calculates the trimmed mean of a numeric vector. It removes the smallest s values and the largest l values from the vector, providing a robust measure of central tendency.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
