@@ -33,6 +33,6 @@ For detailed documentation on pytrim functions and their usage, including other 
 ?pythag
 ```
 
-Trang Ly
-lytt6@vcu.edu
+Trang Ly <br>
+lytt6@vcu.edu <br>
 Created for BIOS 524 Biostatistical Computing with R Assignment 6
