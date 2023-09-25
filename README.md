@@ -3,7 +3,7 @@
 pytrim is an R package that provides a collection of functions for performing various operations related to geometry and statistics.
 
 * The `pythag` function calculates the length of the third side of a right triangle using the Pythagorean theorem.
-* The `trimmed_mean function` calculates the trimmed mean of a numeric vector. It removes the smallest s values and the largest l values from the vector.
+* The `trimmed_mean` function calculates the trimmed mean of a numeric vector. It removes the smallest s values and the largest l values from the vector.
 
 ## Installation
 
